@@ -127,4 +127,4 @@ from abc import ABC, abstractmethod
 # p1 = UPI()
 # p2 = Card()
 # p1.pay(1000)
-# p2.pay(2000)      
+# p2.pay(2000)
